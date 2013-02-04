@@ -1,0 +1,21 @@
+<script type="text/javascript">
+var banner= new Array()
+var shift= new Array()
+var information= new Array()
+**ARRAY**
+var random=Math.floor(banner.length*Math.random());
+var query = window.location.search.substring(1);
+var match = query.match(/.*headerimage=([0-9]+).*/);
+if (match) {
+document.write("Manual image index:");
+document.write(match[1]);
+random = match[1];
+}
+document.write("<style>");
+document.write(".body-fauxcolumn-outer .cap-top {");
+document.write(' background: #FFFFFF url("' + banner[random] + '") ' + shift[random] + ';');
+document.write(" }");
+document.write("</style>");
+document.getElementById('headerinformation').innerHTML = information[random];
+</script>
+

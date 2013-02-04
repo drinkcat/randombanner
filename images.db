@@ -1,0 +1,61 @@
+- url:    https://lh4.googleusercontent.com/-RIXo53MCuQ8/UEoIVKbVTLI/AAAAAAAADZs/8V7SBPG82SA/s{}/P1080691-P1080697.jpg
+  width:  1300
+  repeat: false
+  offset: -50
+  text:   Chocolate hills - Bohol - Philippines
+  date:   2012.09
+- url:    https://lh6.googleusercontent.com/-6HHTbfHiH0s/Tc-HdEiKFhI/AAAAAAAAA4U/T2R5lh5vDbY/s{}/101P.jpg
+  width:  2500
+  repeat: false
+  offset: 0
+  text:   Sun Moon Lake - Taiwan
+  date:   2011.05
+- url:    https://lh4.googleusercontent.com/-Poj5iXgkHa8/Tc-GuKuEo4I/AAAAAAAAA2s/fXK0-IsgiW0/s{}/101P.jpg
+  width:  2300
+  repeat: true
+  offset: 0
+  text:   National Sun Yat-sen University - Kaohsiung - Taiwan
+  date:   2011.05
+- url:    https://lh6.googleusercontent.com/-kI7owgHFoYc/Tc-Hy5GPzQI/AAAAAAAAA40/D_MY9A5asp8/s{}/101P.jpg
+  width:  1600
+  repeat: false
+  offset: -50
+  text:   Jiufen - Taiwan
+  date:   2011.05
+- url:    https://lh4.googleusercontent.com/-UJutLC4pYGA/UBlL_YBJWCI/AAAAAAAACUQ/HrwUgIfRwOA/s{}/P1060043-P1060061.jpg
+  width:  1000
+  repeat: true
+  offset: 0
+  text:   Somewhere near Hue - Vietnam
+  date:   2012.07
+- url:    https://lh4.googleusercontent.com/-1f8vKcQ9gVI/UBlNotdUKfI/AAAAAAAACaY/uxL2_YYuxl0/s{}/P1060251-P1060257.jpg
+  width:  1000
+  repeat: true
+  offset: 0
+  text:   Somewhere near Hue - Vietnam
+  date:   2012.07
+- url:    https://lh4.googleusercontent.com/-2436HISmhd8/UBZwvlk_whI/AAAAAAAACRk/JZbupwPi5zo/s{}/P1050859-P1050862.jpg
+  width:  912
+  repeat: true
+  offset: 0
+  text:   Saigon - Vietnam
+  date:   2012.07
+- url:    https://lh6.googleusercontent.com/-FQXkdQ3FW3k/UCpGOSdOJtI/AAAAAAAADLI/FhjXA9PqgbM/s{}/P1060484-P1060486.jpg
+  width:  1500
+  repeat: false
+  offset: -150
+  text:   Danang - Vietnam
+  date:   2012.07
+- url:    https://lh3.googleusercontent.com/-onSGVCxb8eo/UOraP_7BOyI/AAAAAAAAEyU/1QSvE8OuTEo/s{}/P1140388-P1140391.jpg
+  width:  1500
+  repeat: true
+  offset: -50
+  text:   Krabi - Thailand
+  date:   2012.12
+- url:    https://lh4.googleusercontent.com/-9Z80sBpDKZc/UPusSDW46NI/AAAAAAAAFCs/mO6HhbSUtd4/s{}/P1150373-P1150391.jpg
+  width:  800
+  repeat: true
+  offset: -30
+  text:   Krabi - Thailand
+  date:   2012.12
+
